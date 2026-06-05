@@ -103,6 +103,8 @@ int main()
     cout<<"3. MARK ATTENDANCE --"<<endl;
     cout<<"4. VIEW ATTENDANCE --"<<endl;
     cout<<"5. EXIT -"<<endl;
+   
+   
     cout<<"Enter choice:";
     cin>>choice;
     switch(choice)
